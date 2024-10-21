@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Python, asp.net, PHP**
 
-💬 Ask me about **ADO.NET, C#, Java,C,JS,React**
+💬 Ask me about **ADO.NET, C#, Java,C,JS**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
